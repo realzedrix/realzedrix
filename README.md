@@ -1,6 +1,6 @@
-- 👋 Hi, I’m not @realzedrix
-- 👀 I’m interested in programming/acting
-- 🌱 I’m currently learning C#
+- 👋 Hola, @realzedrix here!
+- 👀 I’m in love with programming/acting, thou we fight a lot!
+- 🌱 I’m stacked in C#
 - 📫 How to reach me IDK
 
 <!---
